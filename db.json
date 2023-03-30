@@ -19,5 +19,48 @@
             "email":"yash@gmail.com",
             "password":"12345"
         }
+    ],
+     "tracker_user":[
+      {
+        "id":1,
+        "name":"pranay",
+        "email":"pranay@gmail.com",
+        "password":"1234"
+      },
+      {
+        "id":2,
+        "name":"yash",
+        "email":"yash@gmail.com",
+        "password":"123"
+      },
+      {
+        "id":3,
+        "name":"saurabh",
+        "email":"saurabh@gmail.com",
+        "password":"12"
+      }
+    ],
+    "tracker_data":[
+      {
+        "id":1,
+        "type":"Income",
+        "Category":"Salary",
+        "amount":"5000",
+        "date":"24/05/2001"
+      },
+      {
+        "id":2,
+        "type":"Expense",
+        "Category":"Shopping",
+        "amount":"2000",
+        "date":"24/05/2023"
+      },
+      {
+        "id":3,
+        "type":"Income",
+        "Category":"Gifts",
+        "amount":"1000",
+        "date":"24/05/2022"
+      }
     ]
   }
